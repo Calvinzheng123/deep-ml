@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:34:16.158Z",
+  "generated_at": "2026-10-28T14:46:46.949Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -170,6 +170,19 @@
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-10-22T02:34:15.612Z",
       "last_pushed_at": "2026-10-22T02:34:15.612Z"
+    },
+    "problem:1101": {
+      "kind": "problem",
+      "id": "1101",
+      "title": "SELECT all rows",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1101",
+      "path": "problems/1101-select-all-rows",
+      "first_solved_at": "2026-10-28T14:46:45.869Z",
+      "last_pushed_at": "2026-10-28T14:46:45.869Z",
+      "language": "sql",
+      "lines": 3
     }
   }
 }
