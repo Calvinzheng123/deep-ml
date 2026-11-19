@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 26 problems · 0 labs · 8 math
+**35** solved · 27 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-28 | [solution](problems/1107-count-rows-per-group) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-16 | [solution](problems/0083-dot-product-calculator) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-28 | [solution](problems/1103-filter-rows-with-where) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-19 | [solution](problems/0042-implement-relu-activation-function) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-11-16 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-16 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-11-17 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
