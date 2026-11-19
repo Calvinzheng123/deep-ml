@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:15:21.549Z",
+  "generated_at": "2026-11-19T03:55:40.118Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -413,6 +413,19 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-11-18T21:15:20.889Z",
       "last_pushed_at": "2026-11-18T21:15:20.889Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-11-19T03:55:39.563Z",
+      "last_pushed_at": "2026-11-19T03:55:39.563Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
