@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 32 problems · 0 labs · 8 math
+**41** solved · 32 problems · 1 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-19 | [solution](problems/0009-matrix-times-matrix) |
 | [Nth-Highest Salary with Ties and NULL](https://www.deep-ml.com/problems/1110) | medium | 2026-10-28 | [solution](problems/1110-nth-highest-salary-with-ties-and-null) |
 | [Top-3 Salaries Per Department](https://www.deep-ml.com/problems/1111) | medium | 2026-10-28 | [solution](problems/1111-top-3-salaries-per-department) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-25 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
